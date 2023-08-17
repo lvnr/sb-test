@@ -1,0 +1,31 @@
+applicationId: a902bbe8-84c1-474e-b60b-f1602de2299b
+id: 14a96583-3971-4bcf-b4ce-e1474abc911a
+isHidden: false
+layouts:
+  - actionUpdates: []
+    dsl:
+      backgroundColor: none
+      bottomRow: 99
+      cachedData:
+        apiDeps: {}
+        apiNames: []
+      canExtend: true
+      children: []
+      containerStyle: none
+      detachFromLayout: true
+      dynamicBindingPathList: []
+      minHeight: 1292
+      snapColumns: 96
+      snapRows: 99
+      topRow: 0
+      type: CANVAS_WIDGET
+      version: 6
+      widgetId: "0"
+      widgetName: MainContainer
+    id: 7481eee3-e9bc-4ae5-8cb3-2c8247058c3b
+    layoutOnLoadActions: []
+    messages: []
+    updated: 2023-08-17T21:01:34.678Z
+    userPermissions: []
+name: Page1
+updated: 2023-08-17T21:01:34.678Z

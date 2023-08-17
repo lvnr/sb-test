@@ -1,0 +1,40 @@
+created: 2023-08-17T21:01:34.678Z
+creator:
+  id: 36a2a6f5-e655-4ca9-a61d-f09377537b03
+  name: Levon Arakeylan
+deletedAt: null
+deployedAt: null
+deployedCommitId: null
+folderId: null
+id: a902bbe8-84c1-474e-b60b-f1602de2299b
+isDeployed: false
+isEditable: true
+isPublic: false
+name: Levon's Great App
+organizationId: 0d9f3124-99f2-453f-bea0-c7de164915df
+pages:
+  - id: 14a96583-3971-4bcf-b4ce-e1474abc911a
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: d35036ef-fee0-4995-849f-a3bd8b95a5cf
+    editor:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+    preview:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+updated: 2023-08-17T21:01:34.678Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications

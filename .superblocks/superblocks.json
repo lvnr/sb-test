@@ -1,0 +1,24 @@
+{
+  "configType": "ROOT",
+  "metadata": {
+    "cliVersion": "0.0.22"
+  },
+  "resources": {
+    "91e1dc60-0057-48eb-b9c9-fa9a3323fd61": {
+      "location": "apps/levon's_mighty_app",
+      "resourceType": "APPLICATION"
+    },
+    "a902bbe8-84c1-474e-b60b-f1602de2299b": {
+      "location": "apps/levon's_great_app",
+      "resourceType": "APPLICATION"
+    },
+    "c8f307c0-40a1-421e-955f-48648e650dd8": {
+      "location": "apps/levon's_awesome_app_2",
+      "resourceType": "APPLICATION"
+    },
+    "faff41bf-6a30-4232-a976-c058a76ba98c": {
+      "location": "apps/levon's_awesome_app",
+      "resourceType": "APPLICATION"
+    }
+  }
+}

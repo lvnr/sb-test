@@ -1,0 +1,40 @@
+created: 2023-08-17T21:01:31.001Z
+creator:
+  id: 36a2a6f5-e655-4ca9-a61d-f09377537b03
+  name: Levon Arakeylan
+deletedAt: null
+deployedAt: null
+deployedCommitId: null
+folderId: null
+id: c8f307c0-40a1-421e-955f-48648e650dd8
+isDeployed: false
+isEditable: true
+isPublic: false
+name: Levon's Awesome App 2
+organizationId: 0d9f3124-99f2-453f-bea0-c7de164915df
+pages:
+  - id: ce7c4eca-0944-482a-9d83-f168cf40f661
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: d35036ef-fee0-4995-849f-a3bd8b95a5cf
+    editor:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+    preview:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+updated: 2023-08-17T21:09:54.351Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications
