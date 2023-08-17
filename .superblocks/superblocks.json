@@ -4,6 +4,10 @@
     "cliVersion": "0.0.22"
   },
   "resources": {
+    "141aded5-b310-43d6-93af-7f4dc5df4133": {
+      "location": "apps/new_app",
+      "resourceType": "APPLICATION"
+    },
     "91e1dc60-0057-48eb-b9c9-fa9a3323fd61": {
       "location": "apps/levon's_mighty_app",
       "resourceType": "APPLICATION"

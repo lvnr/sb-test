@@ -1,0 +1,40 @@
+created: 2023-08-17T21:21:38.151Z
+creator:
+  id: 36a2a6f5-e655-4ca9-a61d-f09377537b03
+  name: Levon Arakeylan
+deletedAt: null
+deployedAt: null
+deployedCommitId: null
+folderId: null
+id: 141aded5-b310-43d6-93af-7f4dc5df4133
+isDeployed: false
+isEditable: true
+isPublic: false
+name: New App
+organizationId: 0d9f3124-99f2-453f-bea0-c7de164915df
+pages:
+  - id: 29916c07-a89b-4c2e-b1c7-db772e93aef0
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: d35036ef-fee0-4995-849f-a3bd8b95a5cf
+    editor:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+    preview:
+      availableProfileIds:
+        - d35036ef-fee0-4995-849f-a3bd8b95a5cf
+        - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+      defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
+updated: 2023-08-17T21:21:53.756Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications

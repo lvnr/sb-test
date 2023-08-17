@@ -1,0 +1,54 @@
+applicationId: 141aded5-b310-43d6-93af-7f4dc5df4133
+id: 29916c07-a89b-4c2e-b1c7-db772e93aef0
+isHidden: false
+layouts:
+  - actionUpdates: []
+    dsl:
+      backgroundColor: none
+      bottomRow: 107
+      cachedData:
+        apiDeps: {}
+        apiNames: []
+        pageLoadActions:
+          apiDeps: {}
+          apiNames: []
+      canExtend: true
+      children:
+        - animateLoading: true
+          bottomRow: 13
+          isLoading: false
+          isVisible: true
+          leftColumn: 24
+          parentId: "0"
+          rightColumn: 36
+          snapColumns: 12
+          text: Label
+          textAlign: LEFT
+          textStyle: LABEL
+          textType: text
+          topRow: 10
+          type: TEXT_WIDGET
+          verticalAlign: AUTO
+          widgetId: 8914l17wfd
+          widgetLastChange: 2023-08-17T21:21:53.297Z
+          widgetName: Text1
+      containerStyle: none
+      detachFromLayout: true
+      dynamicBindingPathList: []
+      dynamicTriggerPathList: []
+      minHeight: 1292
+      snapColumns: 96
+      snapRows: 99
+      topRow: 0
+      type: CANVAS_WIDGET
+      version: 6
+      widgetId: "0"
+      widgetLastChange: 2023-08-17T21:21:53.297Z
+      widgetName: MainContainer
+    id: 79393e22-b6a1-4647-848c-957f5b32ebac
+    layoutOnLoadActions: []
+    messages: []
+    updated: 2023-08-17T21:21:53.835Z
+    userPermissions: []
+name: Page1
+updated: 2023-08-17T21:21:53.835Z
