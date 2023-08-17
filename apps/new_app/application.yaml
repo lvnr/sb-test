@@ -32,7 +32,7 @@ settings:
         - d35036ef-fee0-4995-849f-a3bd8b95a5cf
         - ee036c4f-fc1f-4bd4-b000-6ccbe187a923
       defaultProfileId: ee036c4f-fc1f-4bd4-b000-6ccbe187a923
-updated: 2023-08-17T21:21:53.756Z
+updated: 2023-08-17T21:21:38.151Z
 userPermissions:
   - manage:applications
   - read:applications
